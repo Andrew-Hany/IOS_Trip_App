@@ -1,5 +1,4 @@
 # IOS_Trip_App
 
-[![Watch the video][](https://youtu.be/icNAEUPMcHM)
-
+#[![Watch the video](demo.png)](https://youtu.be/icNAEUPMcHM "Demo")
 
